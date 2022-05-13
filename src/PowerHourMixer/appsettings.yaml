@@ -1,0 +1,13 @@
+﻿transition:
+  uri: https://www.youtube.com/watch?v=XxxnXGaeosk
+  start: 00:04:55.500
+  duration: 00:00:01
+tracks:
+  - uri: https://www.youtube.com/watch?v=s1tAYmMjLdY
+    start: 00:01:00
+  - uri: https://www.youtube.com/watch?v=K7l5ZeVVoCA
+    start: 00:01:00
+  - uri: https://www.youtube.com/watch?v=4kMZ23T9VHE
+    start: 00:01:00
+  - uri: https://www.youtube.com/watch?v=2MRdtXWcgIw
+    start: 00:01:00
